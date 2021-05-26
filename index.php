@@ -29,6 +29,7 @@
     <button type="button" class="btn btn-dark">CLICK ME!</button>
     <button type="button" class="btn btn-primary">CLICK ME!</button>
     <button type="button" class="btn btn-success">CLICK ME!</button>
+    <a href="https://www.w3schools.com/" class="btn btn-danger" target="_blank">W3Schools</a>
     
     <?php
      require 'include/footer.php' 
